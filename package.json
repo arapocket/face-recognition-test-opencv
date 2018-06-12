@@ -1,0 +1,19 @@
+{
+  "name": "face-recognition-test-opencv",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arapocket/face-recognition-test-opencv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arapocket/face-recognition-test-opencv/issues"
+  },
+  "homepage": "https://github.com/arapocket/face-recognition-test-opencv#readme"
+}
